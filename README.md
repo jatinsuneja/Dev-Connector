@@ -7,3 +7,9 @@
 
 **Also Checkout DevChat A Instant Messaging (IM) Application Which was Made In Addition to DevConnector**
 [https://github.com/jatinsuneja/Dev-Chat](https://github.com/jatinsuneja/Dev-Chat)
+
+
+To Run This Application Clone It To Your PC,
+Open Command Line and npm install To Download all The Dependencies.
+(Also Add Your Own MongoDB Connection string in config file.)
+Then Npm start To Run The Application.
